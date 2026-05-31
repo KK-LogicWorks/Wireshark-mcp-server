@@ -1,0 +1,11 @@
+fastmcp
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+pyshark
+scapy
+duckdb
+cachetools
+orjson
