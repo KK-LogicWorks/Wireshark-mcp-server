@@ -1,4 +1,4 @@
-\# PCAP MCP Server
+\# Wireshark MCP Server
 
 
 
